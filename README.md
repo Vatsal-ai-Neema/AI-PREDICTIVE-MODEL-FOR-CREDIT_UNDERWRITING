@@ -133,8 +133,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Contributors
 
-- **Bollapalli Anil Kumar** (Developer)
-- [GitHub Profile](https://github.com/Anilkumar322)
+- **Vatsal Neema** (Developer)
+- [GitHub Profile](https://github.com/Vatsal-ai-Neema)
 
 ## Feedback
 
