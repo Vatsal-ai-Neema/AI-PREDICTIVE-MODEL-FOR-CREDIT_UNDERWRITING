@@ -138,5 +138,5 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Feedback
 
-For any issues or suggestions, please open an **issue** on the [GitHub repository](https://github.com/Anilkumar322/AI-Predictive-Methods-for-Credit-underwriting/issues).
+For any issues or suggestions, please open an **issue** on the [GitHub repository](https://github.com/Vatsal-ai-Neema/AI-PREDICTIVE-MODEL-FOR-CREDIT_UNDERWRITING/issues).
 
