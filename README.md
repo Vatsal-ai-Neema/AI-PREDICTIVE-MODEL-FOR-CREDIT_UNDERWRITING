@@ -112,8 +112,6 @@ The application is live and can be accessed at:
 
 To deploy the app on **Streamlit Cloud**:
 
-To deploy the app on **Streamlit Cloud**:
-
 1. **Push the project to GitHub.**
 2. **Connect your GitHub repository to Streamlit Cloud.**
 3. **Ensure `requirements.txt` is present for dependency installation.**
